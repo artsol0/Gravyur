@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Gravyur</string>
+
+    <!--Settings strings-->
+    <string name="app_settings">Налаштування</string>
+    <string name="app_about">Доп. инфо</string>
+
+    <!--Searching strings-->
+    <string name="search">Пошук</string>
+    <string name="question_film">Введіть назву фільму</string>
+
+    <!--Cinema-->
+    <string name="blockbuster">Blockbuster</string>
+    <string name="bayda">Байда 3D</string>
+    <string name="kosmos">Космос</string>
+    <string name="kinomax">КіноМакс</string>
+
+    <!--Day-->
+    <string name="today">Сьогодні</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="day_after">Післязавтра</string>
+
+    <!--Errors-->
+    <string name="error_message_input">Переконайтеся, що ви надали всі деталі.</string>
+    <string name="error_message_connection">Помилка з\'єднання. Перевірте підключення до Інтернету.</string>
+
+    <!--Results-->
+    <string name="result0">Немає жодного сеансу на цю дату</string>
+    <string name="result1">Є сеанс на цю дату</string>
+    <string name="result2">Немає сеансу на фільм</string>
+    <string name="result2Add">, але є на:</string>
+
+    <!--Outputs-->
+    <string name="genre">Жанр:</string>
+    <string name="time">Час:</string>
+    <string name="about">Опис</string>
+    <string name="buy_tickets">Купити Квитки</string>
+
+</resources>
